@@ -1,0 +1,7 @@
+Debug
+Release
+Bounce/Debug
+Bounce/Release
+*.vcxproj.*
+*.vcxproj
+.vs
